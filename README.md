@@ -1,5 +1,5 @@
 # Peopleperhour_Scrape
-Scrape website peopleperhour using Beautifulsoup and requests 
+Scrape website peopleperhour using Beautifulsoup and requests and pandas
 
 - name of service
 - price
