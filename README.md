@@ -10,4 +10,6 @@ Scrape website peopleperhour using Beautifulsoup and requests
 - Sales
 - Rating
 - Link
+
+
 by daoudimehdi980@gmail.com
