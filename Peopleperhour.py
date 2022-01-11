@@ -85,4 +85,3 @@ df=pd.DataFrame(mylist)
 
 df.to_csv (r'./Peapoleperhour.csv', index = False, header=True)
 
-#by_daoudimehdi980@gmail.com
