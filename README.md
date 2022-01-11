@@ -12,4 +12,3 @@ Scrape www.peopleperhour.com using Beautifulsoup and requests and pandas
 - Link
 
 
-by daoudimehdi980@gmail.com
